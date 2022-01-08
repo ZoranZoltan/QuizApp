@@ -1,0 +1,16 @@
+﻿<Window x:Class="GeneralQuiz.ProgrammingQuiz"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeneralQuiz"
+        mc:Ignorable="d"
+        Title="ProgrammingQuiz" Height="300" Width="492.06" Activated="Window_Activated">
+    <Grid Margin="0,0,2,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="pictures/wall.png"/>
+        </Grid.Background>
+        <Button Content="C++" HorizontalAlignment="Left" Margin="17,69,0,0" VerticalAlignment="Top" Width="50" Height="44" FontWeight="Medium" FontSize="20" FontFamily="Tempus Sans ITC"/>
+
+    </Grid>
+</Window>

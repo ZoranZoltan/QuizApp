@@ -1,0 +1,13 @@
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\bin\Release\GeneralQuiz.exe.config
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\bin\Release\GeneralQuiz.exe
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\bin\Release\GeneralQuiz.pdb
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\MainWindow.g.cs
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\App.g.cs
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\GeneralQuiz_MarkupCompile.cache
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\GeneralQuiz_MarkupCompile.lref
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\MainWindow.baml
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\GeneralQuiz.g.resources
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\GeneralQuiz.Properties.Resources.resources
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\GeneralQuiz.csproj.GenerateResource.Cache
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\GeneralQuiz.exe
+E:\Projekti\QuizApplication-C\QuizApplication C#\QuizApplication C#\GeneralQuiz\obj\Release\GeneralQuiz.pdb
